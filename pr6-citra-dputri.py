@@ -23,7 +23,3 @@ print(' '.join(kalimatreverse))
 # for kata in kalimat[::-1]:
 #     kalimatreverse2 += kata
 # print(kalimatreverse2)
-
-fruits = []
-if len(fruits) == 0:
-    print("Daftar masih kosong.")
