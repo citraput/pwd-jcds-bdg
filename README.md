@@ -1,5 +1,3 @@
-# pwd-jcds-bdg
-
 ## My Purwadhika JCDS Journey
 
 ### Homework:<br/>
