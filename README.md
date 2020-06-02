@@ -1,8 +1,8 @@
 # pwd-jcds-bdg
 
-My Purwadhika JCDS Journey
+## My Purwadhika JCDS Journey
 
-Homework:<br/>
+### Homework:<br/>
   1. pr-1: Variable and Mathematic Operations
   2. pr-2: Conditional (IF-ELIF-ELSE)
   3. pr-3: List Slicing, Palindrome, List Indexing, Try-Except
