@@ -2,7 +2,7 @@
 
 My Purwadhika JCDS Journey
 
-Homework:\
+Homework:<br/>
   \pr-1: Variable and Mathematic Operations
   \pr-2: Conditional (IF-ELIF-ELSE)
   \pr-3: List Slicing, Palindrome, List Indexing, Try-Except
