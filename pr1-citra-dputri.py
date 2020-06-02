@@ -78,5 +78,3 @@ umur_andi = (x - y + (y * z)) / (1 + z)
 print("Umur Andi:", round(umur_andi))
 umur_ayah = x - umur_andi
 print("Umur Ayah:", round(umur_ayah))
-
-# email: khumaeni@purwadhika.com
