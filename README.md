@@ -13,4 +13,4 @@
   10. pr-10: Reduce
 
 ### Coding Challenge
-segitigakata.py
+segitiga_kata.py
