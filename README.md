@@ -11,3 +11,6 @@
   8. pr-8: kalkulator(), kodemorse(), fizzbuzz(), caesar_chiper(), romawi(), konversi_angka()
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
+
+### Coding Challenge
+segitigakata.py
