@@ -1,4 +1,4 @@
-## My Purwadhika JCDS Journey
+## My Purwadhika Journey
 
 ### Homework:<br/>
   1. pr-1: Variable and Mathematic Operations
