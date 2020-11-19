@@ -23,7 +23,23 @@
         > Silakan masukkan kalimat : . - / - - / . - / - .<br>
         > <b>Outputnya</b> : Aman<br>
         > kode morse dictionary: wikipedia<br>
-      - c. fizzbuzz()
+      - <b>c. fizzbuzz()</b>
+        > <b>input</b> masukkan angka :<br>
+        > <b>outputnya</b><br>
+        > angka yang habis bisa dibagi 3 : Fizz<br>
+        > angka yang habis bisa dibagi 5 : Buzz <br>
+        > angka yang habis dibagi 3 dan dibagi 5 : Fizz Buzz <br>
+        > 1<br>
+        > 2<br>
+        > Fizz<br>
+        > 4<br>
+        > Buzz<br>
+        > Fizz<br>
+        > 7<br>
+        > 8<br>
+        > Fizz<br>
+        > Buzz<br>
+        > 11<br>
       - d. caesar_chiper()
       - e. romawi()
       - f. konversi_angka()
