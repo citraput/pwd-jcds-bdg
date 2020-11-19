@@ -12,7 +12,7 @@
       - a. kalkulator()
         > kalkulator (+, -, /, *)
         >
-        > inputan:
+        > <b>inputan:</b>
         >
         > inputan angka 1 : 8
         >
@@ -20,8 +20,23 @@
         >
         > masukkan operator: + 
         >
-        > output: hasil penjumlahan 8 + 10 = 18 
+        > <b>output</b>: hasil penjumlahan 8 + 10 = 18 
       - b. kodemorse()
+        > Translator (Encoder-Decoder Kode Morse)
+        >
+        > Silakan masukkan kalimat: Anda 
+        > 
+        > Outputnya : (kode morse nya) * - / - - / * - / - *
+        >
+        > Silakan masukkan kalimat : . - / - - / . - / - .
+        >
+        > Outputnya : Aman
+        >
+        > kode morse dictionary: wikipedia
+      - c. fizzbuzz()
+      - d. caesar_chiper()
+      - e. romawi()
+      - f. konversi_angka()
 
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
