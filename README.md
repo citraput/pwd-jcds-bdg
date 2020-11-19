@@ -9,16 +9,15 @@
   6. pr-6: String Reverse
   7. pr-7: Email Validation
   8. pr-8: 
-    <ol>
-  <li>a. kalkulator()</li>
-  <li>> kalkulator (+, -, /, *)<br></li>
-      > inputan:<br>
-      > inputan angka 1 : 8<br>
-      > inputan angka 2 : 10<br>
-      > masukkan operator: + <br>
-      > output: hasil penjumlahan 8 + 10 = 18 <br>
-  <li>b. kodemorse()</li>
-  </ol>
+      a. kalkulator()
+        > kalkulator (+, -, /, *)
+        > inputan:
+        > inputan angka 1 : 8
+        > inputan angka 2 : 10
+        > masukkan operator: + 
+        > output: hasil penjumlahan 8 + 10 = 18 
+    b. kodemorse()
+
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
