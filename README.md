@@ -9,29 +9,20 @@
   6. pr-6: String Reverse
   7. pr-7: Email Validation
   8. pr-8: 
-      - a. <b>kalkulator()</b>
+      - <b>a. kalkulator()</b>
         > kalkulator (+, -, /, *)<br>
-        > <b>inputan:</b>
-        >
-        > inputan angka 1 : 8
-        >
-        > inputan angka 2 : 10
-        >
-        > masukkan operator: + 
-        >
-        > <b>output</b>: hasil penjumlahan 8 + 10 = 18 
-      - b. kodemorse()
-        > Translator (Encoder-Decoder Kode Morse)
-        >
-        > Silakan masukkan kalimat: Anda 
-        > 
-        > Outputnya : (kode morse nya) * - / - - / * - / - *
-        >
-        > Silakan masukkan kalimat : . - / - - / . - / - .
-        >
-        > Outputnya : Aman
-        >
-        > kode morse dictionary: wikipedia
+        > <b>inputan:</b><br>
+        > inputan angka 1 : 8<br>
+        > inputan angka 2 : 10<br>
+        > masukkan operator: + <br>
+        > <b>output</b>: hasil penjumlahan 8 + 10 = 18 <br>
+      - <b>b. kodemorse()</b>
+        > Translator (Encoder-Decoder Kode Morse)<br>
+        > Silakan masukkan kalimat: Anda<br>
+        > <b>Outputnya</b> : (kode morse nya) * - / - - / * - / - *<br>
+        > Silakan masukkan kalimat : . - / - - / . - / - .<br>
+        > <b>Outputnya</b> : Aman<br>
+        > kode morse dictionary: wikipedia<br>
       - c. fizzbuzz()
       - d. caesar_chiper()
       - e. romawi()
