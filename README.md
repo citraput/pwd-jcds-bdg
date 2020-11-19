@@ -60,17 +60,21 @@
       - f. <b>konversi_angka()</b>
         > konversi angka digital<br>
         > masukkan angka: 9<br>
-        > <b>output:</b><br>
-        > &nbsp; __<br>
-        > |&nbsp;__|<br>
-        > &nbsp; __|<br>
-
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
 
 ### Coding Challenge
 segitiga_kata.py
+  > print(segitigaKata('kode python'))<br>
+  > k<br>
+  > o d<br>
+  > e p y<br>
+  > t h o n<br>
+  > k o d e<br>
+  > p y t<br>
+  > h o<br>
+  > n<br>
 
 ### Group Assignment
   1. toko_buah_crud.py
