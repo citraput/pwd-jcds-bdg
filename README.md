@@ -11,13 +11,14 @@
   8. pr-8: 
     <ol>
   <li>a. kalkulator()</li>
-      > kalkulator (+, -, /, *)<br>
+  <li>> kalkulator (+, -, /, *)<br></li>
       > inputan:<br>
       > inputan angka 1 : 8<br>
       > inputan angka 2 : 10<br>
       > masukkan operator: + <br>
       > output: hasil penjumlahan 8 + 10 = 18 <br>
   <li>b. kodemorse()</li>
+  </ol>
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
