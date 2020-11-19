@@ -77,6 +77,6 @@ segitiga_kata.py
   > n<br>
 
 ### Group Assignment<br>
-  1. toko_buah_crud.py
+  1. toko_buah_crud.py<br>
     ![alt text](toko-buah-CRUD.png)
   2. tugaskelompok2.py
