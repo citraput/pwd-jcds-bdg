@@ -10,7 +10,7 @@
   7. pr-7: Email Validation
   8. pr-8: 
       - a. <b>kalkulator()</b>
-        > kalkulator (+, -, /, *)
+        > kalkulator (+, -, /, *)<br>
         > <b>inputan:</b>
         >
         > inputan angka 1 : 8
