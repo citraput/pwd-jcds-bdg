@@ -40,9 +40,30 @@
         > Fizz<br>
         > Buzz<br>
         > 11<br>
-      - d. caesar_chiper()
-      - e. romawi()
-      - f. konversi_angka()
+      - <b>d. caesar_chiper()</b>
+        > masukkan kata: Joni <br>
+        > masukkan angka : 2<br>
+        > hasil caesar cipher : lnpk<br>
+        > masukkan kata : Joni <br>
+        > masukkan angka : -2<br>
+        > hasil caesar cipher: imlg<br>
+      - e. <b>romawi()</b>
+        > Batas maksimal 4000<br>
+        > keluar notif : angka diluar jangkauan<br>
+        > Translator (Encoder-Decoder Angka Romawi)<br>
+        > silakan masukkan angka: 2018<br>
+        > outputnya: (angka romawinya) MMXVIII<br>
+        > silakan masukkan kalimat: MMXVIII<br>
+        > output: 2018<br>
+        > CCLXXVIII: 278<br>
+        > MMMCMXCII.<br>
+      - f. <b>konversi_angka()</b>
+        > konversi angka digital<br>
+        > masukkan angka: 9<br>
+        > <b>output:</b><br>
+        > #  __<br>
+        > # |__|<br>
+        > #  __|<br>
 
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
