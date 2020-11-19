@@ -11,10 +11,15 @@
   8. pr-8: 
       - a. kalkulator()
         > kalkulator (+, -, /, *)
+        >
         > inputan:
+        >
         > inputan angka 1 : 8
+        >
         > inputan angka 2 : 10
+        >
         > masukkan operator: + 
+        >
         > output: hasil penjumlahan 8 + 10 = 18 
       - b. kodemorse()
 
