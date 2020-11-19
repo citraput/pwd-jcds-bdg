@@ -8,9 +8,25 @@
   5. pr-5: Looping Pattern
   6. pr-6: String Reverse
   7. pr-7: Email Validation
-  8. pr-8: kalkulator(), kodemorse(), fizzbuzz(), caesar_chiper(), romawi(), konversi_angka()
+  8. pr-8: 
+    a. kalkulator()
+      > kalkulator (+, -, /, *)
+      > inputan:
+      > inputan angka 1 : 8
+      > inputan angka 2 : 10
+      > masukkan operator: + 
+      > output: hasil penjumlahan 8 + 10 = 18 
+    b. kodemorse()
+    c. fizzbuzz()
+    d. caesar_chiper()
+    e. romawi()
+    f. konversi_angka()
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
 
 ### Coding Challenge
 segitiga_kata.py
+
+### Group Assignment
+  1. toko_buah_crud.py
+  2. tugaskelompok2.py
