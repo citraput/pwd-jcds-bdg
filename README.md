@@ -10,12 +10,12 @@
   7. pr-7: Email Validation
   8. pr-8: 
     a. kalkulator()
-      <div> kalkulator (+, -, /, *)
-      > inputan:
-      > inputan angka 1 : 8
-      > inputan angka 2 : 10
-      > masukkan operator: + 
-      > output: hasil penjumlahan 8 + 10 = 18 </div>
+      > kalkulator (+, -, /, *)<br>
+      > inputan:<br>
+      > inputan angka 1 : 8<br>
+      > inputan angka 2 : 10<br>
+      > masukkan operator: + <br>
+      > output: hasil penjumlahan 8 + 10 = 18 <br>
     b. kodemorse()
     c. fizzbuzz()
     d. caesar_chiper()
