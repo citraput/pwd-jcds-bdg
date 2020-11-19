@@ -61,7 +61,30 @@
         > konversi angka digital<br>
         > masukkan angka: 9<br>
 
-  9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
+  9. pr-9: 
+      - <b>ascdesc(pilihan, lst)</b>
+        > Buat Algoritma...<br>
+        > Buat List <br>
+        > Pilihan:<br>
+        > 1 = ascending(a-z) dari kecil ke besar <br>
+        > 2 = descending(z-a) dari yang terbesar ke terkecil <br>
+        > tidak boleh pake reverse, ::-1, pake algoritma, tidak boleh pake fungsi <br>
+        > output: sesuai pilihan <br>
+      - <b>minmaks(lst)</b>
+        > Buat Algoritma <br>
+        > Cari Nilai Maksimal dan nilai Minimal <br>
+      - <b>stats(lst)</b> 
+        > Buat Algoritma<br>
+        > Buat List <br>
+        > cari:<br>
+        > Modus = nilai yang paling sering muncul <br>
+        > Median = nilai tengah<br>
+        > Mean = rata-rata <br>
+        > Q1 = Quartal 1 atau 25%<br>
+        > Q3 = Quartal 3 atau 75%<br>
+        > Outliers<br>
+      - <b>rotasi(x)</b>
+        > Deret angka spin rotation
   10. pr-10: Reduce
 
 ### Coding Challenge<br>
