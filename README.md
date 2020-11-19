@@ -1,6 +1,7 @@
 ## My Purwadhika Journey
 
 ### Homework:<br/>
+<hr>
   1. pr-1: Variable and Mathematic Operations
   2. pr-2: Conditional (IF-ELIF-ELSE)
   3. pr-3: List Slicing, Palindrome, List Indexing, Try-Except
@@ -64,7 +65,8 @@
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
   10. pr-10: Reduce
 
-### Coding Challenge
+### Coding Challenge<br>
+<hr>
 segitiga_kata.py
   > print(segitigaKata('kode python'))<br>
   > k<br>
@@ -76,6 +78,7 @@ segitiga_kata.py
   > h o<br>
   > n<br>
 
-### Group Assignment
+### Group Assignment<br>
+<hr>
   1. toko_buah_crud.py
   2. tugaskelompok2.py
