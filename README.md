@@ -9,9 +9,8 @@
   6. pr-6: String Reverse
   7. pr-7: Email Validation
   8. pr-8: 
-      - a. kalkulator()
+      - a. <b>kalkulator()</b>
         > kalkulator (+, -, /, *)
-        >
         > <b>inputan:</b>
         >
         > inputan angka 1 : 8
