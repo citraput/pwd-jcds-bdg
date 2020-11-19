@@ -61,9 +61,9 @@
         > konversi angka digital<br>
         > masukkan angka: 9<br>
         > <b>output:</b><br>
-        > &nbsp __<br>
-        > |__|<br>
-        > &nbsp __|<br>
+        > &nbsp; __<br>
+        > |&nbsp;__|<br>
+        > &nbsp; __|<br>
 
 
   9. pr-9: ascdesc(pilihan, lst), minmaks(lst), stats(lst), rotasi(x)
