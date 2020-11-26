@@ -1,5 +1,9 @@
 ## My Purwadhika Journey
 
+This repository contains code for the Data Science and Machine Learning Program at Purwadhika.<br>
+The code is mostly homeworks regarding the course material as well as the Team Assignment Projects.<br>
+This learning journey is written in Python3.6 and using Visual Studio Code Version: 1.40.2.
+
 ### Homework:<br/>
   1. pr-1: Variable and Mathematic Operations
   2. pr-2: Conditional (IF-ELIF-ELSE)
