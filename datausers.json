@@ -1,0 +1,212 @@
+{
+    "datauser": [
+        {
+            "nama": "Citra",
+            "userid": "citra123",
+            "password": "Citra1234",
+            "email": "citra@yahoo.com",
+            "gender": "Perempuan",
+            "usia": "24",
+            "pekerjaan": "Pegawai Swasta",
+            "hobi": [
+                "Memasak",
+                "Nonton TV"
+            ],
+            "alamat": "Jalan Bandung Raya",
+            "namakota": "Bandung",
+            "rt": "6",
+            "rw": "13",
+            "zipcode": "42213",
+            "geo": {
+                "lat": "123",
+                "long": "456"
+            },
+            "nohp": "0812979797"
+        },
+        {
+            "nama": "Budi",
+            "userid": "budi1234",
+            "password": "BUdi12345",
+            "email": "budi@yahoo.com",
+            "gender": "Laki-laki",
+            "usia": "27",
+            "pekerjaan": "Pegawai",
+            "hobi": [
+                "Sepeda",
+                "Masak"
+            ],
+            "alamat": "jalan bungur 4",
+            "namakota": "Bandung",
+            "rt": "12",
+            "rw": "3",
+            "zipcode": "",
+            "geo": {
+                "lat": "128",
+                "long": "21"
+            },
+            "nohp": "091284621"
+        },
+        {
+            "nama": "Naufal",
+            "userid": "naufal1234",
+            "password": "NAufa123",
+            "email": "naufal@yahoo.com",
+            "gender": "Laki-laki",
+            "usia": "28",
+            "pekerjaan": "Pelajar",
+            "hobi": [
+                "Main",
+                "Tidur"
+            ],
+            "alamat": "jalan pinang 12",
+            "namakota": "Jakarta Selatan",
+            "rt": "12",
+            "rw": "34",
+            "zipcode": "",
+            "geo": {
+                "lat": "123",
+                "long": "123"
+            },
+            "nohp": "0918232"
+        },
+        {
+            "nama": "Reza Rahadian",
+            "userid": "reza123",
+            "password": "Reza123Ra",
+            "email": "reza@yahoo.com",
+            "gender": "Laki-laki",
+            "usia": "28",
+            "pekerjaan": "Artist",
+            "hobi": [
+                "Masak",
+                "Basket"
+            ],
+            "alamat": "Jalan Jakarta 8",
+            "namakota": "Jakarta Barat",
+            "rt": "12",
+            "rw": "8",
+            "zipcode": "",
+            "geo": {
+                "lat": "80",
+                "long": "100"
+            },
+            "nohp": "081222732"
+        },
+        {
+            "nama": "Citra Test",
+            "userid": "citra1234",
+            "password": "1234Citra",
+            "email": "citra@gmail.com",
+            "gender": "Perempuan",
+            "usia": "21",
+            "pekerjaan": "Seniman",
+            "hobi": [
+                "Nonton Tv",
+                "Masak"
+            ],
+            "alamat": "Jalan Raya Pondok Pinang",
+            "namakota": "Jakarta Selatan",
+            "rt": "12",
+            "rw": "8",
+            "zipcode": "",
+            "geo": {
+                "lat": "12",
+                "long": "78"
+            },
+            "nohp": "08122222222"
+        },
+        {
+            "nama": "Joni",
+            "userid": "joni123",
+            "password": "Joni1234",
+            "email": "joni@gmail.com",
+            "gender": "Laki-laki",
+            "usia": "1",
+            "pekerjaan": "pelajar",
+            "hobi": [
+                "masak dan menjahit"
+            ],
+            "alamat": "jalan raya",
+            "namakota": "bandung",
+            "rt": "12",
+            "rw": "3",
+            "zipcode": "12345",
+            "geo": {
+                "lat": "80.3",
+                "long": "80.34"
+            },
+            "nohp": "08123456789"
+        },
+        {
+            "nama": "A",
+            "userid": "abcd123",
+            "password": "abCD123456",
+            "email": "abcd@gmail.com",
+            "gender": "Laki-laki",
+            "usia": "12",
+            "pekerjaan": "a",
+            "hobi": [
+                "a"
+            ],
+            "alamat": "b",
+            "namakota": "Batam",
+            "rt": "1900",
+            "rw": "1821",
+            "zipcode": "12345",
+            "geo": {
+                "lat": "80.3",
+                "long": "70.345"
+            },
+            "nohp": "081234567890"
+        },
+        {
+            "nama": "Toni",
+            "userid": "toni12345",
+            "password": "TOni12345",
+            "email": "toni@gmail.com",
+            "gender": "Laki-laki",
+            "usia": "12",
+            "pekerjaan": "Pelajar",
+            "hobi": [
+                "memasak",
+                "mancing",
+                "maingame"
+            ],
+            "alamat": "jalan raya ",
+            "namakota": "Bandung",
+            "rt": "2",
+            "rw": "3",
+            "zipcode": "42213",
+            "geo": {
+                "lat": "65.4",
+                "long": "34.5"
+            },
+            "nohp": "08122232121"
+        },
+        {
+            "nama": "Ani",
+            "userid": "test123",
+            "password": "Test1234",
+            "email": "test@gmail.com",
+            "gender": "Laki-laki",
+            "usia": "12",
+            "pekerjaan": "Pelajar",
+            "hobi": [
+                "memasak",
+                " main game",
+                " berenang"
+            ],
+            "alamat": "jalan raya 2",
+            "namakota": "bandung",
+            "rt": "12",
+            "rw": "3",
+            "zipcode": "41123",
+            "geo": {
+                "lat": "64",
+                "long": "34"
+            },
+            "nohp": "0812345678"
+        }
+    ],
+    "dataadmin": []
+}
