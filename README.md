@@ -104,5 +104,5 @@ segitiga_kata.py
       > CREATE, READ, UPDATE and DELETE (CRUD) items at the fruit shop applications.
     ![toko_buah_flow_chart](toko_buah_flow_chart.png)
     <br/>
-    <center>![toko_buah](toko-buah-CRUD.png | width='100px')</center>
+    <center>![toko_buah](toko-buah-CRUD.png)</center>
   2. tugaskelompok2.py
