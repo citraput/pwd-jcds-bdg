@@ -102,5 +102,6 @@ segitiga_kata.py
 ### Group Assignment<br>
   1. toko_buah_crud.py<br>
       > CREATE, READ, UPDATE and DELETE (CRUD) items at the fruit shop applications.
+    ![toko_buah_flow_chart](toko_buah_flow_chart.png)
     ![toko_buah](toko-buah-CRUD.png)
   2. tugaskelompok2.py
